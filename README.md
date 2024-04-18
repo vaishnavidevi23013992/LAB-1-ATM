@@ -27,13 +27,14 @@ to withdraw money,deposit.
 ![ATM-CLASS](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/7d8dce83-659a-43bf-983c-9fd2f610a492)
 
 ## ACTIVITY DIAGRAM:
-![ATM-ACTIVITY](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/87ec4ff9-048f-4713-90c3-dbafc5b10ad0)
+![atm-activi](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/c0b3478a-dd06-47dc-957c-a1ce1eebc161)
+
 
 ## SEQUENCE DIAGRAM:
 ![ATM-SEQUENCE](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/a2233fe4-758a-4997-bc57-7c1f1ff0ddc7)
 
 ## COMMUNICATION DIAGRAM:
-![ATM-COMMUNICATION](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/1d093800-3066-440a-8066-1eb92965691c)
+![268232465-babd7832-651c-4586-bec3-0a8dd3b02466](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/00c192c1-d2b8-48b4-ab09-c6905585749d)
 
 ## STATECHART DIAGRAM:
 ![ATM-STATE CHART](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/50e323ba-3ccd-48d6-8b03-0fb8d296b44e)
