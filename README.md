@@ -1,5 +1,6 @@
 # LAB-1-ATM
 ## ATM and Banking SYSTEM
+## DATE: 18/04/24
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
