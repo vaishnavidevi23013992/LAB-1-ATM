@@ -21,6 +21,7 @@ to withdraw money,deposit.
 ## REGISTER NUMBER: 212223040230
 
 ## USECASE DIAGRAM: 
+A use case is a methodology used in system analysis to identify, clarify and organize system requirements. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal.
 ![ATM-USECASE](https://github.com/vaishnavidevi23013992/LAB-1-ATM/assets/151864235/c05dae5d-7d41-490a-8770-a9c11afae427)
 
 ## CLASS DIAGRAM:
